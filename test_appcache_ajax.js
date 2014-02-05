@@ -1,4 +1,4 @@
-
+// Licence MIT
 var TEST_URL = 'https://aful.org/~madarche/appcache_and_ajax_get/';
 
 var setupModule = function (module) {
